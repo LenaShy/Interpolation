@@ -1,0 +1,5 @@
+/home/lena/Documents/Counting Methods/FunctionalInterpolation/FunctionalInterpolation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lena/Documents/Counting Methods/FunctionalInterpolation/FunctionalInterpolation/bin/Debug/FunctionalInterpolation.exe.mdb
+/home/lena/Documents/Counting Methods/FunctionalInterpolation/FunctionalInterpolation/bin/Debug/FunctionalInterpolation.exe
+/home/lena/Documents/Counting Methods/FunctionalInterpolation/FunctionalInterpolation/obj/x86/Debug/FunctionalInterpolation.exe
+/home/lena/Documents/Counting Methods/FunctionalInterpolation/FunctionalInterpolation/obj/x86/Debug/FunctionalInterpolation.exe.mdb
